@@ -3,6 +3,7 @@ import Home from "./Pages/Home"
 import About from "./Pages/About"
 import Programs from "./Pages/Programs"
 import Contact from "./Pages/Contact"
+import Navbar from "./components/Navbar"
 
 function App() {
   const pageRoutes = [
@@ -18,7 +19,7 @@ function App() {
   return (
     <>
       <Router>
-        <div className=" text-center">786</div>
+        <Navbar />
         <Routes>{renderedRoutes}</Routes>
       </Router>
     </>
