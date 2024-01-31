@@ -17,7 +17,7 @@ function Navbar() {
           className="flex items-center space-x-3 rtl:space-x-reverse"
         >
           <img src={img} className="h-8" alt="Flowbite Logo" />
-          <span className="self-center text-2xl font-semibold whitespace-nowrap text-white pb-1">
+          <span className="self-center text-2xl font-semibold whitespace-nowrap text-white ">
             Marifat
           </span>
         </Link>
