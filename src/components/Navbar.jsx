@@ -52,7 +52,7 @@ function Navbar() {
             <li>
               <Link
                 to="/"
-                className="block py-2 px-3bg-blue-700 rounded md:bg-transparent  md:p-0 text-white md:text-blue-500"
+                className="block py-2 px-3 bg-blue-700 rounded md:bg-transparent  md:p-0 text-white md:text-blue-500"
                 aria-current="page"
               >
                 Home
