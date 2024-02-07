@@ -3,7 +3,7 @@ import React from "react"
 function About() {
   return (
     <div className=" container p-4 flex flex-wrap items-center justify-between mx-auto">
-      About
+      <strong>About</strong>
       <br />
       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum minus
       tempore architecto esse natus veniam earum ad, laborum atque quibusdam
